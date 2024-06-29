@@ -1,0 +1,1 @@
+so simple i have to make sure that the output file is writable and writable                          
